@@ -17,13 +17,13 @@ Bootstrap's documentation can be found at [getbootstrap.com] (http://getboostrap
 Bootstrap breaks their documentation out into 3 sections: CSS, Components, and JavaScript.
 
 1. CSS
-** Contains classes for the grid systems, forms, buttons, and other helper classes.
+⋅⋅* Contains classes for the grid systems, forms, buttons, and other helper classes.
 
 2. Components
-** Contains classes for navigation, breadcrumbs, labels, etc.
+⋅⋅* Contains classes for navigation, breadcrumbs, labels, etc.
 
 3. JavaScript
-** Contains functionality such as modals (lightbox/popup), tooltips, and accordions (referred by Bootstrap as "collapse").
+⋅⋅* Contains functionality such as modals (lightbox/popup), tooltips, and accordions (referred by Bootstrap as "collapse").
 
 --------------------------------------------------------------------------------
 
